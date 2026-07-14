@@ -1,22 +1,4 @@
-----------------------------------------------------------------------------------
--- Company: 
--- Engineer: 
--- 
--- Create Date: 06/29/2026 09:49:34 PM
--- Design Name: 
--- Module Name: PWM - Behavioral
--- Project Name: 
--- Target Devices: 
--- Tool Versions: 
--- Description: 
--- 
--- Dependencies: 
--- 
--- Revision:
--- Revision 0.01 - File Created
--- Additional Comments:
--- 
-----------------------------------------------------------------------------------
+
 library IEEE;
 use IEEE.STD_LOGIC_1164.ALL;
 use IEEE.numeric_std.ALL;
